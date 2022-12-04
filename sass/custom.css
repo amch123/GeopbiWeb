@@ -179,6 +179,15 @@
   margin-bottom: 14rem;
 }
 
+.fondogris {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(0deg, rgb(255, 255, 255) 0%, rgb(222, 217, 217) 100%);
+}
+
+.fondomorado {
+  background: #45175B;
+}
+
 /*!
  * Bootstrap  v5.2.2 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors

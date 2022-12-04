@@ -189,7 +189,13 @@ $info: #DED9D9;
     margin-bottom:14rem;
 }
 
+.fondogris {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(222,217,217,1) 100%);
+}
 
-
+.fondomorado {
+    background: #45175B;
+}
 
 @import "../node_modules/bootstrap/scss/bootstrap";
